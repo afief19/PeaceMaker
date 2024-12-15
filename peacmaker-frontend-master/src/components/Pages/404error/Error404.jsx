@@ -10,7 +10,7 @@ const Error404 = () => {
 
         </div>
 
-        <div className='error_hero'>
+        <div className='error_heroo'>
 
         </div>
       
